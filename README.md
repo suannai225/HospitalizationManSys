@@ -3,9 +3,7 @@
 ## 数据库用户名/密码：root/admin  
 # 项目&数据库编码集：UTF-8  
 # 技术栈: JQuery + Aax + SpringMVC + Spring + Mybatis + MySQL + Echarts + log4j  
-# 体验地址1：~~http://47.107.109.255/HIMS/(阿里云，服务器已过期)  
-
-# 体验地址2：http://114.116.237.14/HIMS/  
+# 体验地址：http://114.116.237.14/HIMS/  
 ### 患者服务大厅账户/密码：service/service  
 ### 医生账户/密码：doctor/doctor  
 ### 系统管理员账户/密码：manager/manager  
